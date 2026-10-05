@@ -16,7 +16,6 @@ This project is an interactive Power BI dashboard created to analyze e-commerce 
 
 ## Tools Used
 - Power BI
-- Excel
 
 ## Dashboard Preview
 
